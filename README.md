@@ -36,35 +36,35 @@ A fun and interactive dice game built with React.js and Tailwind CSS. Test your 
 ---
 
 ## 📂 Project Structure
-Precision-roll/
-├── public/
-│   └── images/DiceImages/
-├── src/
-│   ├── components/
-│   │   ├── GamePlay.jsx
-│   │   ├── NumberSelector.jsx
-│   │   ├── RoleDice.jsx
-│   │   ├── StartGame.jsx
-│   │   └── TotalScore.jsx
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-└── vite.config.js
+   Precision-roll/
+   ├── public/
+   │   └── images/DiceImages/
+   ├── src/
+   │   ├── components/
+   │   │   ├── GamePlay.jsx
+   │   │   ├── NumberSelector.jsx
+   │   │   ├── RoleDice.jsx
+   │   │   ├── StartGame.jsx
+   │   │   └── TotalScore.jsx
+   │   ├── App.jsx
+   │   └── main.jsx
+   ├── package.json
+   └── vite.config.js
 
 ---
 
 ## ⚙️ Installation & Setup
 1. Clone the repository
-   git clone https://github.com/dhruv-dev-89/Precision-roll.git
+git clone https://github.com/dhruv-dev-89/Precision-roll.git
 
 2. Navigate to project folder
-   cd Precision-roll
+cd Precision-roll
 
 4. Install dependencies
-   npm install
+npm install
 
 6. Start development server
-   npm run dev
+npm run dev
 
 ---
 
