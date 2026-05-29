@@ -33,6 +33,7 @@ A fun and interactive dice game built with React.js and Tailwind CSS. Test your 
 4. If wrong → 2 points will be deducted
 5. Click Reset Score to start over
 
+## 📂 Project Structure
 ```
 Precision-roll/
 ├── public/
